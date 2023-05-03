@@ -1,0 +1,180 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Journal Article
+% LaTeX Template
+% Version 1.4 (15/5/16)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Frits Wenneker (http://www.howtotex.com) with extensive modifications by
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[twoside,twocolumn]{article}
+\usepackage{blindtext} % Package to generate dummy text throughout this template 
+\usepackage{gensymb}
+\usepackage{mhchem}
+\usepackage{natbib}
+\usepackage{setspace}
+\setlength{\bibsep}{-0.6pt}
+\bibliographystyle{agsm}
+%\bibliographystyle{abbrv}
+%\bibliographystyle{apalike}
+%\bibliographystyle{ksfh_nat}
+%\bibliographystyle{agsm}
+\usepackage[sc]{mathpazo} % Use the Palatino font
+\usepackage[T1]{fontenc} % Use 8-bit encoding that has 256 glyphs
+\linespread{1} % Line spacing - Palatino needs more space between lines
+\usepackage{microtype} % Slightly tweak font spacing for aesthetics
+
+\usepackage[english]{babel} % Language hyphenation and typographical rules
+\usepackage{float}% use h to force table into location
+\usepackage{longtable} %let table span
+\usepackage[hmarginratio=1:1,top=25mm,columnsep=10pt,total={7.5in, 9in}]{geometry} % Document margins
+\usepackage[hang, small,labelfont=bf,up,textfont=it,up]{caption} % Custom captions under/above floats in tables or figures
+\usepackage{booktabs} % Horizontal rules in tables
+\usepackage{graphicx}
+\graphicspath{ {./Figures/} }
+\usepackage{lettrine} % The lettrine is the first enlarged letter at the beginning of the text
+\usepackage{subcaption} %sub-figures
+\usepackage{wrapfig}
+
+\usepackage{enumitem} % Customized lists
+\setlist[itemize]{noitemsep} % Make itemize lists more compact
+
+\usepackage{abstract} % Allows abstract customization
+\renewcommand{\abstractnamefont}{\normalfont\bfseries} % Set the "Abstract" text to bold
+\renewcommand{\abstracttextfont}{\normalfont\small\itshape} % Set the abstract itself to small italic text
+
+\usepackage{titlesec} % Allows customization of titles
+\renewcommand\thesection{\Roman{section}} % Roman numerals for the sections
+\renewcommand\thesubsection{\roman{subsection}} % roman numerals for subsections
+\titleformat{\section}[block]{\large\scshape\centering}{\thesection.}{1em}{} % Change the look of the section titles
+\titleformat{\subsection}[block]{\large}{\thesubsection.}{1em}{} % Change the look of the section titles
+
+\usepackage{fancyhdr} % Headers and footers
+\pagestyle{fancy} % All pages have headers and footers
+\fancyhead{} % Blank out the default header
+\fancyfoot{} % Blank out the default footer
+\fancyhead[C]{Imperial College London $\cdot$  December 2020 	$\cdot$ Project 72} % Custom header text
+\fancyfoot[RO,LE]{\thepage} % Custom footer text
+
+\usepackage{titling} % Customizing the title section
+
+\usepackage{hyperref} % For hyperlinks in the PDF
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+\setlength{\droptitle}{-4\baselineskip} % Move the title up
+
+\pretitle{\begin{center}\Huge\bfseries} % Article title formatting
+%\posttitle{\end{center}} % Article title closing formatting
+\title{Synthesis and Optimisation of Novel Corn Starch Superhydrophobic CaCO$_3$ Films} % Article title
+\author{%
+\text{Dhylan Mistry \& Shav Vimalendiran }%\thanks{Can thank Vikram here} 
+\\[1ex] % Your name
+\normalsize \emph{Department of Chemical Engineering, Imperial College London}\\ % Your institution
+%\normalsize \href{mailto:john@smith.com}{john@smith.com} % Your email address
+%\and % Uncomment if 2 authors are required, duplicate these 4 lines if more
+%\textsc{Jane Smith}\thanks{Corresponding author} \\[1ex] % Second author's name
+%\normalsize University of Utah \\ % Second author's institution
+%\normalsize \href{mailto:jane@smith.com}{jane@smith.com} % Second author's email address
+}
+\date{} % Leave empty to omit a date
+\renewcommand{\maketitlehookd}{%
+\begin{abstract}
+\noindent Nature is an inexhaustible source of inspiration; non-wetting lotus leaves have sparked considerable interest in the scientific community over the past decades. Superhydrophobic films have a wide range of industrial applications, but it is equally as important to mitigate environmental damage whenever pursuing these applications. Herein, we report the preparation of superhydrophobic composite coatings with an eco-friendly technique. The possibility of removing harmful solvents and non-bioderived polymers are investigated using precipitated calcium carbonate as the substrate (which can also be derived from eggshells), stearic acid as the surface modifying agent and corn starch as the binder. Following characterisation, the novel films show promising mechanical and superhydrophobic properties. An optimised formulation using corn starch with 50\%w/w hydrophobic powder and 5.5\%w/w stearic acid is presented as a statistically significant replacement for polyethylene/toluene films in terms of practical durability as well as superhydrophobicity (contact angle of 154.8$^\circ$ $\pm$ 4.7 $^\circ$ vs 151.7 $^\circ$ $\pm$ 1.5 $^\circ$ for polyethylene/toluene and optimised formulation respectively). 
+%Eco-friendly composite coatings were prepared using an in development hydrophobic powder of precipitated calcium carbonate functionalised with stearic acid and starch as the potential binder. The films show promising mechanical and hydrophobic properties and is a candidate for [real life use of it].After using stearic acid to modify PCC, the dip-coating method was used to prepare the corn starch composite films. Physical, mechanical, hydrophobic and thermal properties were characterized using a goniometer, optical microscopy, and dynamic vapour sorption. The results showed that:
+
+%\noindent Hydrophobicity can improve the usability and functionality of materials in humid condition, enhancing the hydrophobic behavior of starch films is of inportance. 
+
+
+%\noindent In this project, the possibility of removing harmful solvents and non-bioderived polymers are investigated to produce superhydrophobic coatings from calcium carbonate intended to be derived from eggshells. The coating was manufactured by... 
+\end{abstract}
+}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+% a
+% Print the title
+\maketitle
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+\section{Introduction}
+\input{Sections/Intro}
+%\lettrine[nindent=0em,lines=3]{L} orem ipsum dolor sit amet, consectetur adipiscing elit.
+%\blindtext % Dummy text
+
+%\blindtext % Dummy text
+
+%------------------------------------------------
+\section{Method \& Materials}
+\input{Sections/Method}
+
+
+\section{Results \& Discussion}
+\input{Sections/Results}
+
+
+%------------------------------------------------
+%\section{Discussion}
+%\input{Sections/Discussion}
+\section{Conclusion}
+\input{Sections/Conclusion}
+
+\section{Recommendations}
+\input{Sections/Recommendations}
+\section{Acknowledgements}
+\input{Sections/Acknowledgements}
+
+
+
+%----------------------------------------------------------------------------------------
+%	REFERENCE LIST
+%----------------------------------------------------------------------------------------
+
+\begingroup
+%\setstretch{0.7}
+%\fontsize{4}{10}
+\bibliography{references}
+%\printbibliography
+\endgroup
+
+
+
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
+
+
+%Maecenas sed ultricies felis. Sed imperdiet dictum arcu a egestas. 
+%\begin{itemize}
+%\item Donec dolor arcu, rutrum id molestie in, viverra sed diam
+%\item Curabitur feugiat
+%\item turpis sed auctor facilisis
+%\item arcu eros accumsan lorem, at posuere mi diam sit amet tortor
+%\item Fusce fermentum, mi sit amet euismod rutrum
+%\item sem lorem molestie diam, iaculis aliquet sapien tortor non nisi
+%\item Pellentesque bibendum pretium aliquet
+%\end{itemize}
+%\blindtext % Dummy text
+
+%Text requiring further explanation\footnote{Example footnote}.
+
+%------------------------------------------------

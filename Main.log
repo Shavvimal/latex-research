@@ -1,0 +1,1487 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2021.2.27)  27 FEB 2021 11:40
+entering extended mode
+**./Main.tex
+(Main.tex
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03>
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count183
+\c@Blindtext=\count184
+\c@blind@countparstart=\count185
+\blind@countxx=\count186
+\blindtext@numBlindtext=\count187
+\blind@countyy=\count188
+\c@blindlist=\count189
+\c@blindlistlevel=\count190
+\c@blindlist@level=\count191
+\blind@listitem=\count192
+\c@blind@listcount=\count193
+\c@blind@levelcount=\count194
+\blind@mathformula=\count195
+\blind@Mathformula=\count196
+\c@blind@randomcount=\count197
+\c@blind@randommax=\count198
+\c@blind@pangramcount=\count199
+\c@blind@pangrammax=\count266
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/was\gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/mhchem\mhchem.sty
+Package: mhchem 2018/06/22 v4.08 for typesetting chemical formulae
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2020-10-05 L3 programming layer (loader) 
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count267
+\l__pdf_internal_box=\box47
+))
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3ke
+ys2e.sty
+Package: l3keys2e 2020-10-05 LaTeX2e option processing using LaTeX3 keys
+) (C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count268
+\calc@Bcount=\count269
+\calc@Adimen=\dimen139
+\calc@Bdimen=\dimen140
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count270
+\calc@Cskip=\skip51
+) (C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen141
+))
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count271
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count272
+\leftroot@=\count273
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count274
+\DOTSCASE@=\count275
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box48
+\strutbox@=\box49
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count276
+\c@MaxMatrixCols=\count277
+\dotsspace@=\muskip16
+\c@parentequation=\count278
+\dspbrk@lvl=\count279
+\tag@help=\toks16
+\row@=\count280
+\column@=\count281
+\maxfields@=\count282
+\andhelp@=\toks17
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks18
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/chemgreek\chemgreek.sty
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
+.sty
+Package: xparse 2020-10-05 L3 Experimental document command parser
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
+-generic.tex))
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
+ in chemistry (CN)
+\l__chemgreek_tmpa_int=\count283
+\g__chemgreek_tmpa_int=\count284
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\l__mhchem_ce_distanceFromLastComma_int=\count285
+\__mhchem_arrow_extPgfLength_skip=\skip55
+\mhchem@minispace@tmp=\skip56
+\mhchem@minibackspace@tmp=\skip57
+\mhchem@bondwidth=\skip58
+\mhchem@bondheight=\skip59
+\mhchem@smallbondwidth@tmpA=\skip60
+\mhchem@smallbondwidth@tmpB=\skip61
+\mhchem@smallbondwidth=\skip62
+\mhchem@bondtmp@minussidebearingleft=\skip63
+\mhchem@bondtmp@minussidebearingright=\skip64
+\l__mhchem_option_version_int=\count286
+\mhchem@option@minusmathsidebearingleft=\dimen150
+\mhchem@option@minusmathsidebearingright=\dimen151
+\mhchem@option@minustextsidebearingleft=\dimen152
+\mhchem@option@minustextsidebearingright=\dimen153
+
+
+Package mhchem Warning: You did not specify a 'version' option for the mhchem
+(mhchem)                package. Please write \usepackage[version=4]{mhchem}
+(mhchem)                in your preamble (or any lower number for
+(mhchem)                compatibility mode), because you might get slightly
+(mhchem)                different output with the same input in future versions
+.
+
+) (C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip65
+\bibsep=\skip66
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count287
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathpazo.sty
+Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+pplx on input line 1
+12.
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pplx.fd
+File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
+))
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2020/12/07 v2.8 Micro-typographical refinements (RS)
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+\MT@toks=\toks21
+\MT@count=\count288
+LaTeX Info: Redefining \textls on input line 788.
+\MT@outer@kern=\dimen154
+LaTeX Info: Redefining \textmicrotypecontext on input line 1358.
+\MT@listname@count=\count289
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdft
+ex.def
+File: microtype-pdftex.def 2020/12/07 v2.8 Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip67
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2020/12/07 v2.8 microtype main configuration file (RS)
+)) (C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2020/10/06 3.50 The Babel package
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2020/10/06 3.50 Babel common definitions
+\babel@savecnt=\count290
+\U@D=\dimen155
+\l@babelnohyphens=\language79
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count291
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ld
+f
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 108.
+)) (C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count292
+\float@exts=\toks22
+\float@box=\box50
+\@float@everytoks=\toks23
+\@floatcapt=\box51
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip68
+\LTright=\skip69
+\LTpre=\skip70
+\LTpost=\skip71
+\LTchunksize=\count293
+\LTcapwidth=\dimen156
+\LT@head=\box52
+\LT@firsthead=\box53
+\LT@foot=\box54
+\LT@lastfoot=\box55
+\LT@cols=\count294
+\LT@rows=\count295
+\c@LT@tables=\count296
+\c@LT@chunks=\count297
+\LT@p@ftn=\toks24
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count298
+\Gm@cntv=\count299
+\c@Gm@tempcnt=\count300
+\Gm@bindingoffset=\dimen157
+\Gm@wd@mp=\dimen158
+\Gm@odd@mp=\dimen159
+\Gm@even@mp=\dimen160
+\Gm@layoutwidth=\dimen161
+\Gm@layoutheight=\dimen162
+\Gm@layouthoffset=\dimen163
+\Gm@layoutvoffset=\dimen164
+\Gm@dimlist=\toks25
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen165
+\captionmargin@=\dimen166
+\captionwidth=\dimen167
+\caption@tempdima=\dimen168
+\caption@indent=\dimen169
+\caption@parindent=\dimen170
+\caption@hangindent=\dimen171
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count301
+\c@continuedfloat=\count302
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+))
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen172
+\lightrulewidth=\dimen173
+\cmidrulewidth=\dimen174
+\belowrulesep=\dimen175
+\belowbottomsep=\dimen176
+\aboverulesep=\dimen177
+\abovetopsep=\dimen178
+\cmidrulesep=\dimen179
+\cmidrulekern=\dimen180
+\defaultaddspace=\dimen181
+\@cmidla=\count303
+\@cmidlb=\count304
+\@aboverulesep=\dimen182
+\@belowrulesep=\dimen183
+\@thisruleclass=\count305
+\@lastruleclass=\count306
+\@thisrulewidth=\dimen184
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen185
+\Gin@req@width=\dimen186
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\lettrine.sty
+File: lettrine.sty 2020-03-14 v2.23 (Daniel Flipo)
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/generic/minifp\minifp.sty
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
+-based programing language.
+\MFP@loopctr=\count307
+)
+\c@DefaultLines=\count308
+\c@DefaultDepth=\count309
+\DefaultFindent=\dimen187
+\DefaultNindent=\dimen188
+\DefaultSlope=\dimen189
+\DiscardVskip=\dimen190
+\L@lbox=\box56
+\L@tbox=\box57
+\c@L@lines=\count310
+\c@L@depth=\count311
+\L@Pindent=\dimen191
+\L@Findent=\dimen192
+\L@Nindent=\dimen193
+\L@lraise=\dimen194
+\L@first=\dimen195
+\L@next=\dimen196
+\L@slope=\dimen197
+\L@height=\dimen198
+\L@novskip=\dimen199
+\L@target@ht=\dimen256
+\L@target@dp=\dimen257
+\L@target@tht=\dimen258
+\LettrineWidth=\dimen259
+\LettrineHeight=\dimen260
+\LettrineDepth=\dimen261
+\Llist@everypar=\toks26
+
+Loading lettrine.cfg
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\lettrine.cfg))
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count312
+\c@subtable=\count313
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen262
+\WF@size=\dimen263
+\c@WF@wrappedlines=\count314
+\WF@box=\box58
+\WF@everypar=\toks27
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip72
+\enit@outerparindent=\dimen264
+\enit@toks=\toks28
+\enit@inbox=\box59
+\enit@count@id=\count315
+\enitdp@description=\count316
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/abstract\abstract.sty
+Package: abstract 2009/06/08 v1.2a configurable abstracts
+\abstitleskip=\skip73
+\absleftindent=\skip74
+\absrightindent=\skip75
+\absparindent=\skip76
+\absparsep=\skip77
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box60
+\beforetitleunit=\skip78
+\aftertitleunit=\skip79
+\ttl@plus=\dimen265
+\ttl@minus=\dimen266
+\ttl@toksa=\toks29
+\titlewidth=\dimen267
+\titlewidthlast=\dimen268
+\titlewidthfirst=\dimen269
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip80
+\f@nch@O@elh=\skip81
+\f@nch@O@erh=\skip82
+\f@nch@O@olh=\skip83
+\f@nch@O@orh=\skip84
+\f@nch@O@elf=\skip85
+\f@nch@O@erf=\skip86
+\f@nch@O@olf=\skip87
+\f@nch@O@orf=\skip88
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip89
+\thanksmargin=\skip90
+\droptitle=\skip91
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.
+sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.st
+y
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.st
+y
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinek
+eys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.st
+y
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.
+sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen270
+\Hy@linkcounter=\count317
+\Hy@pagecounter=\count318
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count319
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count320
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen271
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.
+sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count321
+\Field@Width=\dimen272
+\Fld@charsize=\dimen273
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count322
+\c@Item=\count323
+\c@Hfootnote=\count324
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count325
+\c@bookmark@seq@number=\count326
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
+check.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqueco
+unter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip92
+) (Main.aux
+
+LaTeX Warning: Label `Young' multiply defined.
+
+
+LaTeX Warning: Label `Young' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub2' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
+)
+\openout1 = `Main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Info: Redefining \celsius on input line 109.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 109
+.
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 109.
+Package gensymb Info: Using \upOmega for \ohm on input line 109.
+
+Package gensymb Warning: Not defining \micro.
+
+
+Package chemgreek Info: Activating mapping `default' on line 109.
+
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count327
+\scratchdimen=\dimen274
+\scratchbox=\box61
+\nofMPsegments=\count328
+\nofMParguments=\count329
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count330
+\MPscratchDim=\dimen275
+\MPnumerator=\count331
+\makeMPintoPDFobject=\count332
+\everyMPtoPDFconversion=\toks31
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Info: Redefining \microtypecontext on input line 109.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 109.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ppl.cfg
+File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* hratio: 1:1
+* modes: twoside 
+* h-part:(L,W,R)=(36.135pt, 542.025pt, 36.13501pt)
+* v-part:(T,H,B)=(71.13188pt, 650.43pt, 73.40811pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=542.025pt
+* \textheight=650.43pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.13498pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=48.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 109.
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitl
+estring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count333
+)
+LaTeX Info: Redefining \ref on input line 109.
+LaTeX Info: Redefining \pageref on input line 109.
+LaTeX Info: Redefining \nameref on input line 109.
+ (Main.out) (Main.out)
+\@outlinefile=\write3
+\openout3 = `Main.out'.
+
+LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
+113.
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pplx.fd
+File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
+)
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
+113.
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
+113.
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
+113.
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
+113.
+
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `zplm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/pplx/m/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+
+(Sections/Intro.tex
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/pplx/m/sc/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package lettrine.sty Info: Targeted height = 16.87498pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 16.87505pt (T);
+(lettrine.sty)             reported on input line 1.
+
+
+Package natbib Warning: Citation `ollivier_1907' on page 1 undefined on input l
+ine 1.
+
+
+Package natbib Warning: Citation `Hydrophobicreview' on page 1 undefined on inp
+ut line 1.
+
+
+Package natbib Warning: Citation `LATTHE201952' on page 1 undefined on input li
+ne 1.
+
+
+Package natbib Warning: Citation `SHSreview' on page 1 undefined on input line 
+1.
+
+
+Package natbib Warning: Citation `SHSreview' on page 1 undefined on input line 
+2.
+
+
+Package natbib Warning: Citation `ECOSHS' on page 1 undefined on input line 2.
+
+
+Package natbib Warning: Citation `demjen' on page 1 undefined on input line 3.
+
+
+Package natbib Warning: Citation `SHENG20061983' on page 1 undefined on input l
+ine 3.
+
+
+Package natbib Warning: Citation `HuDeng' on page 1 undefined on input line 3.
+
+
+Package natbib Warning: Citation `Cao' on page 1 undefined on input line 3.
+
+
+Package natbib Warning: Citation `Kokkinis_2017' on page 1 undefined on input l
+ine 3.
+
+<Sections/Figures/SAFunctionalised4.jpg, id=76, 608.2725pt x 352.9185pt>
+File: Sections/Figures/SAFunctionalised4.jpg Graphic file (type jpg)
+<use Sections/Figures/SAFunctionalised4.jpg>
+Package pdftex.def Info: Sections/Figures/SAFunctionalised4.jpg  used on input 
+line 7.
+(pdftex.def)             Requested size: 189.71205pt x 110.07135pt.
+
+Package natbib Warning: Citation `Cao' on page 1 undefined on input line 11.
+
+
+Package natbib Warning: Citation `DeArmritt' on page 1 undefined on input line 
+11.
+
+
+Package natbib Warning: Citation `deepika' on page 1 undefined on input line 13
+.
+
+
+Package natbib Warning: Citation `gilbert_petiraksakul_mathieson_2001' on page 
+1 undefined on input line 13.
+
+
+Package natbib Warning: Citation `Vatsal' on page 1 undefined on input line 13.
+
+
+
+Package natbib Warning: Citation `zhang_hierarchial' on page 1 undefined on inp
+ut line 13.
+
+
+Package natbib Warning: Citation `thailandshells' on page 1 undefined on input 
+line 13.
+
+
+Package natbib Warning: Citation `fang_2019' on page 1 undefined on input line 
+13.
+
+[1{C:/Users/Shav/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+
+ <./Sections/Figures/SAFunctionalised4.jpg>]
+
+Package natbib Warning: Citation `kaur_ariffin_bhat_karim_2012' on page 2 undef
+ined on input line 14.
+
+
+Package natbib Warning: Citation `dufresne' on page 2 undefined on input line 1
+4.
+
+
+Package natbib Warning: Citation `Caoprep' on page 2 undefined on input line 14
+.
+
+
+Package natbib Warning: Citation `smith_2001' on page 2 undefined on input line
+ 15.
+
+LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 
+15.
+(C:\Users\Shav\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1pplx.fd
+File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
+)
+
+Package natbib Warning: Citation `luchese_spada_tessaro_2017' on page 2 undefin
+ed on input line 15.
+
+
+Package natbib Warning: Citation `ZOBEL1984285' on page 2 undefined on input li
+ne 15.
+
+
+Package natbib Warning: Citation `Amylosebenefit' on page 2 undefined on input 
+line 15.
+
+
+Package natbib Warning: Citation `wang' on page 2 undefined on input line 16.
+
+
+Package natbib Warning: Citation `jiang_dai_qin_xiong_sun_2016' on page 2 undef
+ined on input line 16.
+
+
+Package natbib Warning: Citation `yu_jiang_zheng_cao_hou_xu_wang_jiang_pan_2019
+' on page 2 undefined on input line 16.
+
+
+Package natbib Warning: Citation `OMSProcess' on page 2 undefined on input line
+ 16.
+
+
+Package natbib Warning: Citation `TEOS' on page 2 undefined on input line 17.
+
+
+Package natbib Warning: Citation `TEOS' on page 2 undefined on input line 17.
+
+
+Package natbib Warning: Citation `wang_gu_hong_cheng_li_2011' on page 2 undefin
+ed on input line 18.
+
+
+Package natbib Warning: Citation `ECOSHS' on page 2 undefined on input line 20.
+
+
+
+Package natbib Warning: Citation `rewritable' on page 2 undefined on input line
+ 20.
+
+
+Package natbib Warning: Citation `syafiq_vengadaesvaran_ahmed_rahim_pandey_bush
+roa_ramesh_ramesh_2020' on page 2 undefined on input line 20.
+
+
+Package natbib Warning: Citation `chen_liu_yu_duan_ji_chen_2020' on page 2 unde
+fined on input line 20.
+
+
+Package natbib Warning: Citation `Vatsal' on page 2 undefined on input line 20.
+
+
+
+Package natbib Warning: Citation `fang_2019' on page 2 undefined on input line 
+24.
+
+[2]
+! Double subscript.
+l.30 \gamma_s_
+              v = \gamma_s_l + \gamma_l_v cos \theta_i
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.30 \gamma_s_v = \gamma_s_
+                           l + \gamma_l_v cos \theta_i
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.30 \gamma_s_v = \gamma_s_l + \gamma_l_
+                                        v cos \theta_i
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.32 Here, $\gamma_s_
+                     v$, $\gamma_s_l$ and $\gamma_l_v$ denote the surface te...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.32 Here, $\gamma_s_v$, $\gamma_s_
+                                   l$ and $\gamma_l_v$ denote the surface te...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.32 ... $\gamma_s_v$, $\gamma_s_l$ and $\gamma_l_
+                                                  v$ denote the surface tens...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Package natbib Warning: Citation `wenzel_1936' on page 3 undefined on input lin
+e 32.
+
+
+Package natbib Warning: Citation `cassie_baxter_1944' on page 3 undefined on in
+put line 42.
+
+
+Package natbib Warning: Citation `gao_mccarthy_2006' on page 3 undefined on inp
+ut line 44.
+
+) (Sections/Method.tex
+! Double subscript.
+l.3 \textbf{Stearic Acid:} C$_1_
+                                7$H$_3_5$COOH from BDH Chemicals Ltd. as a G...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.3 \textbf{Stearic Acid:} C$_1_7$H$_3_
+                                       5$COOH from BDH Chemicals Ltd. as a G...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Package natbib Warning: Citation `stearic' on page 3 undefined on input line 3.
+
+
+! Double subscript.
+l.6 \textbf{Corn Starch:} (C$_6$H$_1_
+                                     0$O$_5$)$_n$ from Sainsbury's. Formula ...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Package natbib Warning: Citation `TEOS' on page 3 undefined on input line 8.
+
+
+Package natbib Warning: Citation `OMSProcess' on page 3 undefined on input line
+ 8.
+
+
+Package natbib Warning: Citation `fang_2019' on page 3 undefined on input line 
+28.
+
+
+Package natbib Warning: Citation `OMSProcess' on page 3 undefined on input line
+ 29.
+
+
+Package natbib Warning: Citation `PowderShatter' on page 3 undefined on input l
+ine 29.
+
+
+Package natbib Warning: Citation `tzouganatos_2015' on page 3 undefined on inpu
+t line 30.
+
+
+Package natbib Warning: Citation `5starch' on page 3 undefined on input line 32
+.
+
+
+Package natbib Warning: Citation `StarchGel' on page 3 undefined on input line 
+32.
+
+[3]
+
+Package natbib Warning: Citation `eral' on page 4 undefined on input line 37.
+
+
+Package natbib Warning: Citation `eral' on page 4 undefined on input line 38.
+
+<Sections/Figures/B5055.png, id=109, 433.62pt x 289.08pt>
+File: Sections/Figures/B5055.png Graphic file (type png)
+<use Sections/Figures/B5055.png>
+Package pdftex.def Info: Sections/Figures/B5055.png  used on input line 43.
+(pdftex.def)             Requested size: 271.0125pt x 180.68336pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 43--44
+ [][] 
+ []
+
+[4 <./Sections/Figures/B5055.png>]
+<Sections/Figures/MechanicalSetup.jpg, id=119, 746.79pt x 881.2925pt>
+File: Sections/Figures/MechanicalSetup.jpg Graphic file (type jpg)
+<use Sections/Figures/MechanicalSetup.jpg>
+Package pdftex.def Info: Sections/Figures/MechanicalSetup.jpg  used on input li
+ne 56.
+(pdftex.def)             Requested size: 54.2058pt x 63.95593pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[][]|\T1/pplx/m/it/9 (+20) Stir-rer caus-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+\T1/pplx/m/it/9 (+20) ing sur-face
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+\T1/pplx/m/it/9 (+20) me-chan-i-cal
+ []
+
+
+Package natbib Warning: Citation `syafiq_vengadaesvaran_ahmed_rahim_pandey_bush
+roa_ramesh_ramesh_2020' on page 5 undefined on input line 63.
+
+) (Sections/Results.tex
+<Sections/Figures/StaticBlue2.png, id=121, 648.5028pt x 400.1349pt>
+File: Sections/Figures/StaticBlue2.png Graphic file (type png)
+<use Sections/Figures/StaticBlue2.png>
+Package pdftex.def Info: Sections/Figures/StaticBlue2.png  used on input line 5
+.
+(pdftex.def)             Requested size: 283.47635pt x 174.90594pt.
+
+Overfull \hbox (17.46385pt too wide) in paragraph at lines 5--6
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<Sections/Figures/AandB.jpeg, id=122, 2055.68pt x 2055.68pt>
+File: Sections/Figures/AandB.jpeg Graphic file (type jpg)
+<use Sections/Figures/AandB.jpeg>
+Package pdftex.def Info: Sections/Figures/AandB.jpeg  used on input line 11.
+(pdftex.def)             Requested size: 54.2058pt x 54.20236pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[][]|\T1/pplx/m/it/9 (+20) Side by side
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+\T1/pplx/m/it/9 (+20) com-par-i-son of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+\T1/pplx/m/it/9 (+20) A-40-2.5(left)
+ []
+
+<Sections/Figures/WIN_20201203_13_09_29_Pro.jpg, id=124, 481.8pt x 361.35pt>
+File: Sections/Figures/WIN_20201203_13_09_29_Pro.jpg Graphic file (type jpg)
+<use Sections/Figures/WIN_20201203_13_09_29_Pro.jpg>
+Package pdftex.def Info: Sections/Figures/WIN_20201203_13_09_29_Pro.jpg  used o
+n input line 21.
+(pdftex.def)             Requested size: 54.2058pt x 40.65288pt.
+
+Package natbib Warning: Citation `jiang_dai_qin_xiong_sun_2016' on page 5 undef
+ined on input line 25.
+
+
+Package natbib Warning: Citation `TEOS' on page 5 undefined on input line 25.
+
+
+Underfull \hbox (badness 5077) in paragraph at lines 25--26
+[][]\T1/pplx/b/n/10 (+20) Observations \T1/pplx/m/n/10 (+20) worth not-ing
+ []
+
+[5 <./Sections/Figures/MechanicalSetup.jpg> <./Sections/Figures/StaticBlue2.png
+> <./Sections/Figures/AandB.jpeg> <./Sections/Figures/WIN_20201203_13_09_29_Pro
+.jpg>]
+<Sections/Figures/SAOptimise.png, id=136, 402.303pt x 247.908pt>
+File: Sections/Figures/SAOptimise.png Graphic file (type png)
+<use Sections/Figures/SAOptimise.png>
+Package pdftex.def Info: Sections/Figures/SAOptimise.png  used on input line 31
+.
+(pdftex.def)             Requested size: 216.80669pt x 133.59975pt.
+<Sections/Figures/HPOptimise.png, id=138, 402.522pt x 257.106pt>
+File: Sections/Figures/HPOptimise.png Graphic file (type png)
+<use Sections/Figures/HPOptimise.png>
+Package pdftex.def Info: Sections/Figures/HPOptimise.png  used on input line 39
+.
+(pdftex.def)             Requested size: 216.80669pt x 138.48209pt.
+
+
+Package natbib Warning: Citation `hong_chang_chou_chan_sheng_tsao_2011' on page
+ 6 undefined on input line 47.
+
+<Sections/Figures/sessile3.png, id=141, 1636.1125pt x 1379.1525pt>
+File: Sections/Figures/sessile3.png Graphic file (type png)
+<use Sections/Figures/sessile3.png>
+Package pdftex.def Info: Sections/Figures/sessile3.png  used on input line 54.
+(pdftex.def)             Requested size: 243.90959pt x 205.6013pt.
+! Argument of \caption@ydblarg has an extra }.
+<inserted text> 
+                \par 
+l.55 ... surface showing the conical-esque shape.}
+                                                  \label{Cone}
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+{\@caption \@captype }{\@xfootnotemark }\def \reserved@b {\stepcounter \ETC.
+! Paragraph ended before \caption@ydblarg was complete.
+<to be read again> 
+                   \par 
+l.55 ... surface showing the conical-esque shape.}
+                                                  \label{Cone}
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+[6 <./Sections/Figures/SAOptimise.png> <./Sections/Figures/HPOptimise.png> <./S
+ections/Figures/sessile3.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 59.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\theta' on input line 59.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 59.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 59.
+
+<Sections/Figures/tiny.png, id=154, 440.1243pt x 518.4168pt>
+File: Sections/Figures/tiny.png Graphic file (type png)
+<use Sections/Figures/tiny.png>
+Package pdftex.def Info: Sections/Figures/tiny.png  used on input line 63.
+(pdftex.def)             Requested size: 271.0125pt x 319.23972pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 63--64
+ [][] 
+ []
+
+! Double subscript.
+l.71 ...04>0.05$, the null hypothesis $H_0: \mu_B_
+                                                  -_5_0_-_5_._5 = \mu_A_-_4_...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 ...>0.05$, the null hypothesis $H_0: \mu_B_-_
+                                                  5_0_-_5_._5 = \mu_A_-_4_0_...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 ....05$, the null hypothesis $H_0: \mu_B_-_5_
+                                                  0_-_5_._5 = \mu_A_-_4_0_-_...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 ...5$, the null hypothesis $H_0: \mu_B_-_5_0_
+                                                  -_5_._5 = \mu_A_-_4_0_-_2_...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 ..., the null hypothesis $H_0: \mu_B_-_5_0_-_
+                                                  5_._5 = \mu_A_-_4_0_-_2_._...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 ...the null hypothesis $H_0: \mu_B_-_5_0_-_5_
+                                                  ._5 = \mu_A_-_4_0_-_2_._5$...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 ...e null hypothesis $H_0: \mu_B_-_5_0_-_5_._
+                                                  5 = \mu_A_-_4_0_-_2_._5$ c...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 ...othesis $H_0: \mu_B_-_5_0_-_5_._5 = \mu_A_
+                                                  -_4_0_-_2_._5$ could not h...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 ...hesis $H_0: \mu_B_-_5_0_-_5_._5 = \mu_A_-_
+                                                  4_0_-_2_._5$ could not hav...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 ...sis $H_0: \mu_B_-_5_0_-_5_._5 = \mu_A_-_4_
+                                                  0_-_2_._5$ could not have ...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 ...s $H_0: \mu_B_-_5_0_-_5_._5 = \mu_A_-_4_0_
+                                                  -_2_._5$ could not have be...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 ...$H_0: \mu_B_-_5_0_-_5_._5 = \mu_A_-_4_0_-_
+                                                  2_._5$ could not have been...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 ..._0: \mu_B_-_5_0_-_5_._5 = \mu_A_-_4_0_-_2_
+                                                  ._5$ could not have been r...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 ...: \mu_B_-_5_0_-_5_._5 = \mu_A_-_4_0_-_2_._
+                                                  5$ could not have been rej...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Package natbib Warning: Citation `khoo_lim_2017' on page 7 undefined on input l
+ine 71.
+
+<Sections/Figures/DVSA.jpg, id=159, 682.2288pt x 479.8728pt>
+File: Sections/Figures/DVSA.jpg Graphic file (type jpg)
+<use Sections/Figures/DVSA.jpg>
+Package pdftex.def Info: Sections/Figures/DVSA.jpg  used on input line 80.
+(pdftex.def)             Requested size: 119.24615pt x 83.87648pt.
+<Sections/Figures/DVSB.jpg, id=160, 682.2288pt x 480.3546pt>
+File: Sections/Figures/DVSB.jpg Graphic file (type jpg)
+<use Sections/Figures/DVSB.jpg>
+Package pdftex.def Info: Sections/Figures/DVSB.jpg  used on input line 87.
+(pdftex.def)             Requested size: 119.24615pt x 83.9607pt.
+
+Package natbib Warning: Citation `starch_dvs' on page 7 undefined on input line
+ 95.
+
+[7 <./Sections/Figures/tiny.png (PNG copy)> <./Sections/Figures/DVSA.jpg> <./Se
+ctions/Figures/DVSB.jpg>]
+<Sections/Figures/silver.png, id=171, 524.96124pt x 792.9625pt>
+File: Sections/Figures/silver.png Graphic file (type png)
+<use Sections/Figures/silver.png>
+Package pdftex.def Info: Sections/Figures/silver.png  used on input line 100.
+(pdftex.def)             Requested size: 54.2058pt x 81.87811pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+\T1/pplx/m/it/9 (+20) A-40-2.5 slide
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+\T1/pplx/m/it/9 (+20) re-sult-ing from
+ []
+
+<Sections/Figures/Immersion3.png, id=172, 583.9416pt x 413.8662pt>
+File: Sections/Figures/Immersion3.png Graphic file (type png)
+<use Sections/Figures/Immersion3.png>
+Package pdftex.def Info: Sections/Figures/Immersion3.png  used on input line 11
+8.
+(pdftex.def)             Requested size: 233.06677pt x 165.18358pt.
+
+Underfull \hbox (badness 3333) in paragraph at lines 121--123
+\T1/pplx/m/n/10 (+20) i-cant drop in hy-dropho-bic-ity
+ []
+
+
+Underfull \hbox (badness 3250) in paragraph at lines 121--123
+\T1/pplx/m/n/10 (+20) for ei-ther of the slides due
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+\T1/pplx/m/n/10 (+20) cor-rob-o-rates the con-clu-sion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+\T1/pplx/m/n/10 (+20) hy-dropho-bic-ity and dura-bil-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+
+ []
+
+<Sections/Figures/A_Opt.jpg, id=174, 288.3272pt x 288.3272pt>
+File: Sections/Figures/A_Opt.jpg Graphic file (type jpg)
+<use Sections/Figures/A_Opt.jpg>
+Package pdftex.def Info: Sections/Figures/A_Opt.jpg  used on input line 129.
+(pdftex.def)             Requested size: 59.62308pt x 59.6222pt.
+<Sections/Figures/B_opt.jpg, id=175, 283.81032pt x 283.81032pt>
+File: Sections/Figures/B_opt.jpg Graphic file (type jpg)
+<use Sections/Figures/B_opt.jpg>
+Package pdftex.def Info: Sections/Figures/B_opt.jpg  used on input line 135.
+(pdftex.def)             Requested size: 59.62308pt x 59.61923pt.
+
+! LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.159 \begin{tabular}{llr111}
+                             
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.159 \begin{tabular}{llr111}
+                             
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.159 \begin{tabular}{llr111}
+                             
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Sections/Figures/Outdoor.jpg, id=177, 1805.74625pt x 2274.4975pt>
+File: Sections/Figures/Outdoor.jpg Graphic file (type jpg)
+<use Sections/Figures/Outdoor.jpg>
+Package pdftex.def Info: Sections/Figures/Outdoor.jpg  used on input line 175.
+(pdftex.def)             Requested size: 48.78026pt x 61.4296pt.
+
+Underfull \hbox (badness 1253) in paragraph at lines 181--182
+\T1/pplx/m/n/10 (+20) 95% sig-nif-i-cance level that
+ []
+
+) (Sections/Conclusion.tex
+
+Package natbib Warning: Citation `khoo_lim_2017' on page 8 undefined on input l
+ine 1.
+
+
+Package natbib Warning: Citation `Vatsal' on page 8 undefined on input line 1.
+
+
+Package natbib Warning: Citation `Kokkinis_2017' on page 8 undefined on input l
+ine 1.
+
+
+! LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \begin{tabular}{llr1}
+                         
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[8 <./Sections/Figures/Immersion3.png (PNG copy)> <./Sections/Figures/silver.pn
+g (PNG copy)> <./Sections/Figures/A_Opt.jpg> <./Sections/Figures/B_opt.jpg> <./
+Sections/Figures/Outdoor.jpg>]) (Sections/Recommendations.tex
+
+Package natbib Warning: Citation `khoo_lim_2017' on page 9 undefined on input l
+ine 1.
+
+
+Package natbib Warning: Citation `eral' on page 9 undefined on input line 1.
+
+
+Package natbib Warning: Citation `tang_chang_li_ge_niu_wang_jiang_sun_2021' on 
+page 9 undefined on input line 1.
+
+
+Package natbib Warning: Citation `wang' on page 9 undefined on input line 1.
+
+) (Sections/Acknowledgements.tex)
+No file Main.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+[9
+
+] (Main.aux)
+Package rerunfilecheck Info: File `Main.out' has not changed.
+(rerunfilecheck)             Checksum: 85AF61C6D90E5BB8A61C28938C5645D0;1207.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 14145 strings out of 480257
+ 228595 string characters out of 2881910
+ 610241 words of memory out of 3000000
+ 29635 multiletter control sequences out of 15000+200000
+ 646308 words of font info for 585 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 71i,12n,77p,1498b,554s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Shav/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/
+Users/Shav/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.
+pfb><C:/Users/Shav/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmr10.pfb><C:/Users/Shav/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb><C:/Users/Shav/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/mathpazo/fplmri.pfb><C:/Users/Shav/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/fpl/fplrc8a.pfb><C:/Users/Shav/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/urw/palatino/uplb8a.pfb><C:/Users/Shav/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/urw/palatino/uplbi8a.pfb><C:/Users/Shav/AppData/Local/Programs/MiKTeX/font
+s/type1/urw/palatino/uplr8a.pfb><C:/Users/Shav/AppData/Local/Programs/MiKTeX/fo
+nts/type1/urw/palatino/uplri8a.pfb>
+Output written on Main.pdf (9 pages, 3309420 bytes).
+PDF statistics:
+ 235 PDF objects out of 1000 (max. 8388607)
+ 53 named destinations out of 1000 (max. 500000)
+ 155366 words of extra memory for PDF output out of 184870 (max. 10000000)
+
